@@ -4,9 +4,7 @@
 *Project Poisson* is a minimalist underwater adventure game inspired by Untitled Goose Game. In this student project, the player controls a small fish. This project is developed in Unity with C#, utilizing Blender for 3D assets, following a low-poly style with flat colors for an immersive, simplified aesthetic.
 
 ## Project status
-- **Brainstorming**: Defining the general concept (genre, theme, art style).
-- **Game Mechanics**: Discussing simple gameplay mechanics (platformer, puzzle, racing, etc.).
-- **Target Audience**: Considering the target audience and the project's complexity.
+- **Prototype**: Modeling of temporary assets and early elements of gameplay.
 
 ## Features
 - **To-do List**: The player completes a single task at a time, such as moving an object from point A to point B.
